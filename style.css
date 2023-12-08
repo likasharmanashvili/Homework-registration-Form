@@ -1,0 +1,56 @@
+
+    body{display: flex; height: 100vh;align-items: center; justify-content: center; background-color: #FF7979;background-image: url(https://media.discordapp.net/attachments/1178640109864763513/1182371084532719616/bg-intro-desktop.png?ex=658473e1&is=6571fee1&hm=cc41e143a7d624e1c348f9a6ff9d56be311bfa4fb599aea77017d6b7bf5cd026&=&format=webp&quality=lossless&width=1031&height=583);}
+form{ border: 2px solid grey;border-radius: 10px;
+    background: #FFF;
+    box-shadow: 0px 8px 0px 0px rgba(0, 0, 0, 0.15);
+    width: 540px;
+    height: 474px;
+    padding: 24px; }
+
+    .shrink {
+        width: 460px;
+        height: 56px;
+        flex-shrink: 0;
+    }
+    .input{text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;}
+    .input input { border-radius: 5px;
+        border: 1px solid #DEDEDE;
+        background: #FFF;padding: 5px; width: 460px;
+        height: 40px;
+        flex-shrink: 0; margin-bottom: 10px;text-align: left;
+        display: flex;
+        align-items: center;
+        justify-content: center;}
+        .header{width: 540px;
+            height: 60px;
+            flex-shrink: 0;border-radius: 10px;
+            background: #5E54A4;
+            box-shadow: 0px 8px 0px 0px rgba(0, 0, 0, 0.15); margin-bottom: 20px; }
+.first{ text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;height: 8vh;color: #FFF;}
+
+    .trial{
+        display: flex;
+        align-items: center;
+        justify-content: center; border: none;border-radius: 5px;
+        background: #38CC8B;
+        box-shadow: 0px -4px 0px 0px rgba(0, 0, 0, 0.09) inset;width: 460px;
+        height: 56px;
+        flex-shrink: 0;color: white;text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center; align-items: center; margin-left: 40px;}
+        .styl{text-align: center;}
+     
+    
+   
+
+
+
+   
+    
